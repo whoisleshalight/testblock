@@ -1,0 +1,1 @@
+import{p as e,u as t}from"./index-t3rukE39.js";var n=e(),r={page:`_page_96ig3_1`},i=t();function a(){let e=(0,n.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,i.jsx)(`div`,{"data-page-ready":!0,className:r.page,children:(0,i.jsx)(`h1`,{children:`About`})}),e[0]=t):t=e[0],t}export{a as default};
