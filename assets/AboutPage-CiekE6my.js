@@ -1,1 +1,0 @@
-import{f as e,h as t}from"./index-BhCq7vVp.js";var n=t(),r={page:`_page_96ig3_1`},i=e();function a(){let e=(0,n.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,i.jsx)(`div`,{"data-page-ready":!0,className:r.page,children:(0,i.jsx)(`h1`,{children:`About`})}),e[0]=t):t=e[0],t}export{a as default};
